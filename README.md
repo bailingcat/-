@@ -3,4 +3,8 @@
 
 猫猫岛服务器：???.???.???.???:?????(不告诉你)
 
+汉化协力：@wushidi：https://t.me/youthkinga
+
+服务器供应：@YuKathleenLXy (Telegram)
+
 猫猫的梯子供应商：https://v2.xiaoxiaobujidao.org/auth/register?code=bailingcat
